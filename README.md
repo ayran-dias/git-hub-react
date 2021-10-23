@@ -16,10 +16,9 @@
 
 ## Ferramentas utilizadas
 
-- [x] Fetch API
+- [x] Axios API
 - [x] React.js
-- [x] Styled Components
-- [x] TypeScript
+- [x] Bootstrap
 
 ## Iniciando a Aplicação
 
