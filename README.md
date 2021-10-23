@@ -2,7 +2,7 @@
  Consumindo API - Github
 </h1>
 
-<p align="center">Consumindo API do GitHub para buscas de users/orgs</p>
+<p align="center">Consumindo API do GitHub para buscas de repositórios de users</p>
 
 <hr>
 
